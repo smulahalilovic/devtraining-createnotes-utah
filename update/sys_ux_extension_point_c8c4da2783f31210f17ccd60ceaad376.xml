@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_extension_point">
+    <sys_ux_extension_point action="INSERT_OR_UPDATE">
+        <app_shell display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</app_shell>
+        <component display_value="Stepper">e72c75f648cda0becbd28db9a44b569f</component>
+        <controller display_value="Form">029f04e053610110ac9bddeeff7b1294</controller>
+        <controller_dependencies/>
+        <description/>
+        <name>Custom Stepper</name>
+        <sys_class_name>sys_ux_extension_point</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 18:23:55</sys_created_on>
+        <sys_id>c8c4da2783f31210f17ccd60ceaad376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Stepper</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_ux_extension_point_c8c4da2783f31210f17ccd60ceaad376</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 18:23:55</sys_updated_on>
+        <type/>
+    </sys_ux_extension_point>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8c4da2783f31210f17ccd60ceaad376"/>
+</record_update>
